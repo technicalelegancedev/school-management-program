@@ -1,0 +1,20 @@
+Java Essentials, Hugh Jackman, Y publishing, 1234567889, 250.00
+Java Programming Guidelines, Ben Carson, Not Real Publishing, 1123456779, 399.99
+Java Programming Guidelines 2 with revisions, Andy Garcia, Oceans 11, 2123456669, 499.99
+Adding Structure to Data Structures, Andy Dick, Homeless, 1233337889, 419.99
+Cool Stories for Freshman, Kathy Griffin, Red House, 1234222889, 319.99
+English is Lit, Kathy Bates, Scorcese, 1234888889, 200.00
+English is fun?, Dov Davidoff, Madeup Prices, 2434567877, 300.00
+Literature is Lit, JK, Another One Publishing, 3334567877, 420.00
+Biology 5th rev with homework code, J.K. Rowling, Crazy Expensive Publishing, 2123654918, 400.99
+Biology for real, Bill Nye, Climate Change Publishing, 2123654999, 319.99
+Biology 2 Real, Bill Nye, Climate Change is fake Publishing, 2188654999, 449.99
+Chemistry Though, Jesse Pinkman, Breaking Bad Publishing, 2199456669, 420.00
+Valence Chemistry, Walter White, Breaking Bad Publishing, 1223337889, 420.00
+Philosophy?, Rosseanne Bar, Price Gouge Inc., 3185654918, 89.99
+Philosophical Ramblings, Ted Danson, Too Old Publishing, 4211333333, 399.99
+Philosophical Ramblings Pt.2 Electric Boogaloo, Yu Yu Hakasho, Spirit World Publishing, 4299933333, 399.99
+How to Work Out, Tom Arnold, Gray Stone Publishing, 3185654355, 2, 29.99
+The Keys To Calculus, DJ Khaled, Another One Publishing, 4200654918, 4, 499.99
+Advanced Calculus with homework code, Bernie Sanders, Bern it down publishing, 4200655555, 420.00
+Advanced Calc with Integrated Derivative Integrals, Ted Cruz, Trump Publishing Co., 4288855555, 900.01

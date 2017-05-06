@@ -1,0 +1,20 @@
+Intro to Java, CST141, 1234567889, 3
+Java Programming, CST142, 1123456779, 4
+Java Programming 2, CST242, 2123456669, 4
+Data Structures, CST243, 1233337889, 4
+Intro to English, ENG141, 1234222889, 3
+English, ENG242, 1234888889, 4
+English Honors, ENG243,  2434567877, 5
+Literature, ENG244, 3334567877, 4
+Intro to Biology, BIO131, 2123654918, 4
+Biology, BIO212, 2123654999, 3
+Biology 2, BIO213, 2188654999, 4
+Chemistry, CHE121, 2199456669, 4
+Chemistry 2, CHE141, 1223337889, 4
+Intro to Philosophy, PHI101, 3185654918, 2
+Ancient Philosophers, PHI202, 4211333333, 3
+Ancient Philosophers 2, PHI222, 4299933333, 3
+Physical Education, GYM101, 3185654355, 2
+Calculus Just Why, MAT101, 4200654918, 4
+Calculus 2, MAT201, 4200655555, 4
+Calculus 3, MAT221, 4288855555, 5
